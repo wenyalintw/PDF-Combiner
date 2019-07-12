@@ -16,4 +16,4 @@ than `combined.pdf` will generate at current directory
 > Note: Drag files into terminal will save lots of time
 
 ## Postscript
-Just found out I got [PDFjam](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/) installed few second before git push LOL.
+Just found out I got [PDFjam](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/) installed few seconds before git push LOL.
